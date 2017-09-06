@@ -1,5 +1,5 @@
 {
-  "name": "usdocker-postgres",
+  "name": "@usdocker/postgres",
   "version": "1.0.0",
   "description": "USDocker script for postgres ",
   "main": "usdocker_postgres.js",
